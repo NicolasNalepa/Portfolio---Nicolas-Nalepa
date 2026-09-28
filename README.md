@@ -1,4 +1,4 @@
-# Nicolas Portfolio
+# Nicolas Nalepa's Portfolio
 
 Welcome to my personal portfolio website.
 
