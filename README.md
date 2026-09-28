@@ -126,4 +126,4 @@ Potential future updates may include:
 
 ## Contact
 
-For professional inquiries, collaboration opportunities, or questions, please connect with me through the contact and social links available on the website.
+For professional inquiries, collaboration opportunities, or questions, please connect with me through email: nicolasnalepa@outlook.com
