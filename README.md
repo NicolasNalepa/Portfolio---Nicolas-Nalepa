@@ -1,16 +1,129 @@
-# React + Vite
+# Nicolas Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website.
 
-Currently, two official plugins are available:
+This website is designed to give visitors a better understanding of who I am, what I do, and the skills and interests that shape my work. It highlights my background, experience, projects, professional interests, and the areas I am continuing to develop.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About the Project
 
-## React Compiler
+This portfolio serves as a central place to showcase my work and personal profile. It allows visitors to learn more about me, explore my skills and interests, view selected projects, and find ways to connect with me professionally.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The site is designed with a clean, personal, and responsive interface that can be viewed across desktop and mobile devices.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Personal introduction and profile
+- Overview of skills and areas of interest
+- Project and work showcase
+- Professional experience and background
+- Resume access
+- Links to professional and social profiles
+- Responsive layout for different screen sizes
+- Fast development and live updates with Vite
+
+## Technologies Used
+
+- React
+- JavaScript
+- CSS
+- Vite
+- React Router
+- ESLint
+
+## Project Structure
+
+```text
+nicolas-portfolio/
+├── public/          # Images, icons, resume, and other public assets
+├── src/             # Main React application files
+│   ├── App.jsx      # Main application component
+│   ├── App.css      # Application-specific styles
+│   ├── index.css    # Global styles
+│   └── main.jsx     # Application entry point
+├── index.html       # Main HTML document
+├── package.json     # Project configuration and dependencies
+├── vite.config.js   # Vite configuration
+└── README.md        # Project documentation
+```
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+Move into the project directory:
+
+```bash
+cd nicolas-portfolio
+```
+
+Install the project dependencies:
+
+```bash
+npm install
+```
+
+### Running the Website Locally
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Vite will provide a local URL where you can view the website in your browser.
+
+### Creating a Production Build
+
+To create an optimized production build, run:
+
+```bash
+npm run build
+```
+
+### Checking the Code
+
+To run the project’s linting checks, use:
+
+```bash
+npm run lint
+```
+
+## Updating the Website
+
+After making changes to the website, review the changes and commit them:
+
+```bash
+git status
+git add .
+git commit -m "Describe your changes"
+git push
+```
+
+## Future Improvements
+
+Potential future updates may include:
+
+- Adding more projects and case studies
+- Improving animations and interactions
+- Adding a contact form
+- Expanding the skills and experience sections
+- Adding a blog or writing section
+- Improving accessibility and performance
+- Connecting the website to a custom domain
+
+## Contact
+
+For professional inquiries, collaboration opportunities, or questions, please connect with me through the contact and social links available on the website.
