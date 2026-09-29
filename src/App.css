@@ -7,12 +7,6 @@
   flex-wrap: wrap;
 }
 
-.site-name {
-  color: #171717;
-  font-size: rem;
-  font-weight: 700;
-  text-decoration: none;
-}
 
 .header-links {
   display: flex;
@@ -53,11 +47,6 @@
   text-align: left;
 }
 
-.intro-name {
-  margin: 0 0 20px;
-  font-size: 7rem;
-  font-weight: 700;
-}
 
 .intro-text h1 {
   margin: 0 0 16px;
