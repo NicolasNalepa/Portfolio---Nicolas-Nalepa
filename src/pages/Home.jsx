@@ -42,7 +42,7 @@ function Home() {
 
       <img
         className="profile-photo"
-        src="/Profile.jpg"
+        src="/Me.PNG"
         alt="Nicolas Nalepa"
         width="320"
       />
