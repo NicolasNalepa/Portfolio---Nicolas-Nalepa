@@ -33,19 +33,32 @@ function Home() {
      </a>
 
         <a
-         href="https://github.com/NicolasNalepa"
+       
+       href="https://github.com/NicolasNalepa"
         target="_blank"
         rel="noopener noreferrer"
-        >
+       
+       >
+       
         <img src="/githublogo.png" alt="GitHub" />
-    </a>
-      
+    
+     </a> 
+   
+   </div>  {/* Ends the Follow me row*/}
 
+    <div className="contact-section">
+        <h3>Contact Me:</h3>
 
-      </div> 
-      
-      
-      </div>
+       <a 
+        
+        href="mailto:nicolasnalepa@outlook.com">
+        <img src="/mial.png" alt="Email me" />
+        </a>
+       
+       <p>Phone: 416-522-3278</p>
+
+    </div> {/* Ends contact-section */}
+    </div> {/* Ends intro-text */}
 
       <img
         className="profile-photo"
@@ -55,6 +68,7 @@ function Home() {
       />
     </section>
   )
+
 }
 
 export default Home
