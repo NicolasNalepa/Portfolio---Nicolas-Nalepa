@@ -40,29 +40,31 @@
 .home-intro {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 60px;
-  width: 100%;
-  padding: 90px 40px;
-  box-sizing: border-box;
+  gap: 100px;
+  width: 1100px;
+   width: min(1400px, 100%);
+  margin: 0 auto;
+  padding: 80px 40px;
 }
 
 .intro-text {
   flex: 1;
   min-width: 0;
+  text-align: left;
 }
 
 .intro-name {
-  margin: 0 0 16px;
+  margin: 0 0 20px;
   font-size: 7rem;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .intro-text h1 {
-  margin: 0 0 20px;
-  font-size: clamp(5rem, 5vw, 4rem);
+  margin: 0 0 16px;
+  font-size: clamp(4rem, 7vw, 7rem);
   font-weight: 900;
   line-height: 1.1;
+  white-space: nowrap;
 }
 
 .intro-description {
@@ -73,9 +75,10 @@
 
 .profile-photo {
   width: 380px;
-  flex-shrink: 1;
+  flex-shrink: 0;
   border-radius: 90px;
   max-width: 40%
+  
 }
 
 @media (max-width: 700px) {
