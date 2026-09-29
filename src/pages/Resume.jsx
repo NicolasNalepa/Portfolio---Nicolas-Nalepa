@@ -2,7 +2,7 @@ function Resume() {
   return (
     <section>
       <h2>Resume</h2>
-      <p>View my résumé or download a copy.</p>
+      <p>View my resume or download a copy.</p>
 
       <p>
         <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">

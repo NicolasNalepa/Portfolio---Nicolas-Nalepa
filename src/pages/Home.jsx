@@ -6,7 +6,7 @@ function Home() {
         <h2>Welcome to my portfolio!</h2>
         <p className="intro-description">
           I’m a Computer Science student at the University of Guelph,
-        specializing in Cybersecurity. Explore my projects or
+          specializing in Cybersecurity. Explore my projects or
           learn more about me.
         </p>
       </div>

@@ -51,6 +51,17 @@ function Projects() {
             View code on GitHub
           </a>
         </article>
+
+        <article>
+        <h3>Personal Portfolio</h3>
+        <p>
+        This website is designed to give visitors a better understanding of who I am, what I do, and the skills and interests that shape my work. 
+        It highlights my background, experience, projects, professional interests, and the areas I am continuing to develop.
+        </p>
+        <a href="https://github.com/NicolasNalepa/Portfolio---Nicolas-Nalepa">
+            View code on GitHub
+        </a>
+        </article>
     </section>
   )
 }
