@@ -9,6 +9,10 @@ function Home() {
           specializing in Cybersecurity. Explore my projects or
           learn more about me.
         </p>
+        <p className="intro-location">
+            Based in Mississauga, Ontario, Canada
+        </p>
+
       <div className="follow-section">
         <p>Follow me:</p>
         
@@ -35,7 +39,10 @@ function Home() {
         >
         <img src="/githublogo.png" alt="GitHub" />
     </a>
-      </div>
+      
+
+
+      </div> 
       
       
       </div>
