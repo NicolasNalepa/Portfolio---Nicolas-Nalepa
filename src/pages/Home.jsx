@@ -8,10 +8,19 @@ function Home() {
           I’m a Computer Science student at the University of Guelph,
           specializing in Cybersecurity. Explore my projects or
           learn more about me.
-        </p>
+        </p> 
+        
+       <div className="intro-details">
         <p className="intro-location">
+            <img src="/pin.png" alt="" />
             Based in Mississauga, Ontario, Canada
         </p>
+
+        <p className="intro-availibility">
+             <img src="work.png" alt="" />
+            Seeking co-op placement - W27
+        </p>
+    </div>
 
       <div className="follow-section">
         <p>Follow me:</p>
