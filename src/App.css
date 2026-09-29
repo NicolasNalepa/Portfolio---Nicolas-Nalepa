@@ -90,3 +90,54 @@
   }
 
 }
+
+.follow-section {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 24px;
+  margin-top: 48px;
+  padding-top: 20px;
+  border-top: 1px solid #999;
+  max-width: 760px;
+}
+
+.follow-section p {
+  margin: 0;
+  font-weight: 700;
+}
+
+.follow-section a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.follow-section a:hover {
+  text-decoration: underline;
+}
+
+.follow-section a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+}
+
+.follow-section img,
+.follow-section svg {
+  display: block;
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+
+.follow-section a:hover {
+  opacity: 0.65;
+}
+
+.follow-section img[src="/LinkedIn.png"] {
+  width: 30px;
+  height: 30px;
+}
+
