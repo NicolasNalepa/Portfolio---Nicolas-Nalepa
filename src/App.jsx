@@ -13,32 +13,14 @@ function App() {
   
 
     <div className="header-links">
-      <nav className="navigation" aria-label="Main navigation">
-        
-        <Link to="/" aria-label="Home" title="Home">
-          <img src="/Home.png" alt="" width="32" height="24" />
-        </Link>
-        
-        
-        <Link to="/projects" aria-label="Projects" title="Projects">
-          <img src="/project.png" alt="" width="27" height="24" />
-        </Link>
-       
-       
-       
-        <Link to="/about" aria-label="About Me" title="About Me">
-          <img src="/AboutMe.png" alt="" width="27" height="24" />
-        </Link>
-        
-        
-        
-        
-        <Link to="/resume" aria-label="resume" title="resume">
-          <img src="/Resume.jpg" alt="" width="27" height="24" />
-        </Link>
+   
+    <nav  className="navigation" aria-label="Main navigation">
+    <Link to="/">Home</Link>
+    <Link to="/projects">Projects</Link>
+    <Link to="/about">About</Link>
+    <Link to="/resume">Resume</Link>
+  </nav>
     
-      </nav>
-
       <div className="social-links">
         
       </div>
