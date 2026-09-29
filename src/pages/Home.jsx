@@ -18,7 +18,7 @@ function Home() {
 
         <p className="intro-availibility">
              <img src="work.png" alt="" />
-            Seeking co-op placement - W27
+            Seeking co-op placement - Winter 2027
         </p>
     </div>
 
