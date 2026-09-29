@@ -40,24 +40,7 @@ function App() {
       </nav>
 
       <div className="social-links">
-        <a
-          href="https://www.linkedin.com/in/nicolas-nalepa-326a51379/"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="LinkedIn profile"
-          title="LinkedIn"
-        >
-          <img src="/LinkedIn.png" alt="" width="29" height="26" />
-        </a>
-
-        <a
-          href="https://github.com/NicolasNalepa"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="GitHub profile"
-          >
-          <img src="/githublogo.png" alt="" width="27" height="24" />
-        </a>
+        
       </div>
     </div>
   </div>
