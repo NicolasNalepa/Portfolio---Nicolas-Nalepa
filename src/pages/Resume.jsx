@@ -5,13 +5,13 @@ function Resume() {
       <p>View my resume or download a copy.</p>
 
       <p>
-        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/Nicolas Nalepa - Resume.pdf" target="_blank" rel="noopener noreferrer">
           View resume (PDF)
         </a>
       </p>
 
       <p>
-        <a href="/resume.pdf" download="Nicolas-Nalepa-Resume.pdf">
+        <a href="/Nicolas Nalepa - Resume.pdf" download="Nicolas-Nalepa-Resume.pdf">
           Download resume
         </a>
       </p>
