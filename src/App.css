@@ -418,3 +418,10 @@ projects-grid {
     gap: 16px;
   }
 }
+
+.project-card .project-learning {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-top: 12px;
+  margin-top: 16px;
+}
