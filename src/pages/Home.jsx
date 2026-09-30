@@ -1,13 +1,22 @@
+
+import { Link } from "react-router"
+
 function Home() {
   return (
     <section className="home-intro">
       <div className="intro-text">
         <h1>Nicolas Nalepa</h1>
         <h2>Welcome to my portfolio!</h2>
+        
+        
         <p className="intro-description">
           I’m a Computer Science student at the University of Guelph,
-          specializing in Cybersecurity. Explore my projects or
-          learn more about me.
+          specializing in Cybersecurity. {' '} 
+          <Link className="projects-button" to="/projects">
+          Explore my projects 
+          </Link> {' '} 
+          or learn more about me.
+        
         </p> 
         
        <div className="intro-details">
@@ -21,6 +30,24 @@ function Home() {
             Seeking co-op placement - Winter 2027
         </p>
     </div>
+    
+    
+    <section className="skills-section" aria-labelledby="skills-heading">
+  <h3 id="skills-heading">Skills:</h3>
+
+  <div className="skills-list">
+    <img src="/c.webp" alt="C" />
+    <img src="/Python.webp" alt="Python" />
+    <img src="/Javascript.png" alt="JavaScript" />
+    <img src="/Java.webp" alt="Java" />
+    <img src="/React.webp" alt="React" />
+    <img src="/Linux.png" alt="Linux" />
+    <img src="/git.png" alt="Git" />
+  </div>
+</section>
+
+
+
 
       <div className="follow-section">
         <p>Follow me:</p>
@@ -68,6 +95,8 @@ function Home() {
 
     </div> {/* Ends contact-section */}
     </div> {/* Ends intro-text */}
+
+
 
       <img
         className="profile-photo"
