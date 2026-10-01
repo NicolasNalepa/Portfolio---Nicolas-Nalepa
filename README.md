@@ -56,8 +56,8 @@ Potential future updates may include:
 - Expanding the skills and experience sections
 - Adding a blog or writing section
 - Improving accessibility and performance
-- Connecting the website to a custom domain
+
 
 ## Contact
 
-For professional inquiries, collaboration opportunities, or questions, please connect with me through email: nicolasnalepa@outlook.com
+For professional inquiries, collaboration opportunities, or questions, please connect with me through email: nicolasnalepa@outlook.com or through my website - https://nicolasnalepa.ca/projects
