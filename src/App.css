@@ -553,8 +553,8 @@ margin: 0 auto;;
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 320px;
-  max-width: 40%;
+  width: 420px;
+  max-width: 45%;
   flex-shrink: 0;
 }
 
@@ -564,7 +564,7 @@ margin: 0 auto;;
   max-width: 100%;
   height: auto;
   border-radius: 32px;
-  padding: 40px 24px;
+  
 }
 
 .about-connect {
@@ -598,3 +598,5 @@ margin: 0 auto;;
     align-self: center;
   }
 }
+
+
