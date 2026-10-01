@@ -564,6 +564,7 @@ margin: 0 auto;;
   max-width: 100%;
   height: auto;
   border-radius: 32px;
+  padding: 40px 24px;
 }
 
 .about-connect {
