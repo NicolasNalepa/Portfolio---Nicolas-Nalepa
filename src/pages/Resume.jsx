@@ -6,7 +6,7 @@ function Resume() {
 
       <a
         className="view-resume"
-        href="/Nicolas%20Nalepa%20-%20Resume.pdf"
+        href="/Nicolas Nalepa Resume.pdf"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -15,14 +15,14 @@ function Resume() {
     
       <a
         className="download-resume"
-        href="/Nicolas%20Nalepa%20-%20Resume.pdf"
+        href="/Nicolas Nalepa Resume.pdf"
         download="Nicolas-Nalepa-Resume.pdf"
       >
         Download resume
       </a>
       <iframe
       className="resume-preview"
-      src="/Nicolas%20Nalepa%20-%20Resume.pdf#view=FitH"
+      src="/Nicolas Nalepa Resume.pdf#view=FitH"
       title="Nicolas Nalepa's Resume"
     />    
     </section>
