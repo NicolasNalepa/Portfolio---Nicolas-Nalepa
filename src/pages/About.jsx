@@ -47,7 +47,7 @@ function About() {
         <div className="about-sidebar">
           <img
             className="about-photo"
-            src="/about-photo.jpg"
+            src="/nick.jpg"
             alt="Nicolas Nalepa"
           />
 
