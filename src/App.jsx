@@ -1,5 +1,6 @@
 import './App.css'
 import { Link, Route, Routes } from 'react-router'
+import { Analytics } from '@vercel/analytics/react'
 import Home from './pages/Home'
 import Projects from './pages/Projects'
 import About from './pages/About'
@@ -38,6 +39,7 @@ function App() {
           <Route path="/resume" element={<Resume />} />
         </Routes>
       </main>
+      <Analytics />
     </>
   )
 }
