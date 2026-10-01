@@ -60,4 +60,6 @@ Potential future updates may include:
 
 ## Contact
 
-For professional inquiries, collaboration opportunities, or questions, please connect with me through email: nicolasnalepa@outlook.com or through my website - https://nicolasnalepa.ca/projects
+For professional inquiries, collaboration opportunities, or questions, please connect with me through: 
+email: nicolasnalepa@outlook.com  
+website: https://nicolasnalepa.ca/projects
