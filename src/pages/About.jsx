@@ -23,11 +23,10 @@ function About() {
           <div className="about-card">
             <h3>What I’m Working Toward</h3>
             <p>
-              I’m seeking a Winter 2027 co-op placement where I can
-              contribute to real projects and learn from an experienced
-              team. I want to strengthen my software development skills
-              and explore how cybersecurity principles are applied
-              in practice.
+              I’ll be joining Hatch as a Digital Student for Winter 2027, 
+              contributing to real projects and learning from an experienced team. 
+              I’m working toward a career in software development and cybersecurity, with a focus on building practical, secure software. 
+              Through my studies, personal projects, and co-op experience, I aim to deepen my technical skills and grow as a collaborative developer.
             </p>
           </div>
 
